@@ -30,7 +30,7 @@ return [
     'components' => [
         //...
         'compare' => [
-            'class' => 'kenjeaev\compare\Compare',
+            'class' => 'kenjebaev\compare\Compare',
             'storageClass' => 'kenjebaev\compare\storage\SessionStorage',
             'params' => [
                 'key' => 'compare',
